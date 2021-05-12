@@ -1,5 +1,7 @@
 # Azure Paper Exploration Workshop
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CloudAdvocacy/AzurePaperExplorationWorkshop/HEAD)
+
 In this workshop, we will explore different Microsoft Azure features while working on an important example: extracting some meaningful insights from the collection of COVID-19 papers (so-called [CORD Dataset][CORD]).
 
 > *Overall idea explored in this tutorial has been presented in [this blog post](https://soshnikov.com/science/analyzing-medical-papers-with-azure-and-text-analytics-for-health/)*
@@ -38,6 +40,8 @@ code .
 * Use **Azure Machine Learning Notebooks** as described [here][AzMLNb]
 * Use **[GitHub Codespaces][GHCodeSpaces]** to start the repository right inside GitHub (*Currently, it requires you to sign up for early access*)
 * Use **[Binder](http://mybinder.com)** - click on the button below to start your temporary container. **NOTE**: When using binder, the environment will time our periodically, and your work will not be persisted between runs. Thus it is only recommended for taking a quick look at the content.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CloudAdvocacy/AzurePaperExplorationWorkshop/HEAD)
 
 Once you have chosen the way to run your notebooks, open [CORDExplore.ipynb](CORDExplore.ipynb) from this repository.
 ## Getting Paper Abstracts
