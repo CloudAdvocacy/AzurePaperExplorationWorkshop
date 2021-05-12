@@ -17,6 +17,7 @@ We will explore the following features of Azure:
 The goal of our workshop would be to explore the corpus of COVID papers, in order to extract some meaningful insights, for example, changes in treatment strategies over time, or combinations of most used medications.
 
 | ![Changes in treatment](images/treatmenttime.png) | ![Changes in treatment](    images/cooccur-med.png) |
+|----|----|
 
 The main idea is to extract as much semi-structured information from text as possible using [Text Analytics for Health][TAH], and then store it into [Cosmos DB][CosmosDB] for further processing. Storing information in the database would allow us to make some very specific queries to answer some of the questions, as well as to provide visual exploration tool for medical expert for structured search and insight generation.
 
