@@ -31,7 +31,7 @@ This workshop is presented in the form of a **Jupyter Notebook**, where you can 
 
 * **Locally on your computer** - it requires to have Python installed, with Jupyter kernel. I always recommend starting with [Miniconda][Miniconda], but you can also use [Full Anaconda](https://anaconda.org/) installation. It is also very convenient to use [Visual Studio Code][VSCode] with [Python Extension][VSPy] as code editor, because it supports notebooks natively. For local use, you may clone this repository, install all required packages, and start VS Code in the home directory:
 ```bash
-git clone http://github.com/CloudAdvocacy/AzurePaperExlorationWorkshop
+git clone http://github.com/CloudAdvocacy/AzurePaperExplorationWorkshop
 cd AzurePaperExlorationWorkshop
 pip install -r requirements.txt
 code .
